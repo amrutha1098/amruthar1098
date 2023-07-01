@@ -8,7 +8,6 @@ Backend developer proficient in python </br>
 yup! thats it have a great day 
 </br>
 </br>
-<p><img align="left" src="https://user-images.githubusercontent.com/38883175/174956608-16c6fa50-2eee-452d-9456-4514431c8673.gif" style="clear: both"height="200" width='150'/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amrutharajashekar" style="clear: both" /></p>
 </br>
 </br>
